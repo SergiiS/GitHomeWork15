@@ -1,4 +1,5 @@
 public class GitHomeWork15 {
+
     public String firstName;
     public String lastName;
     public String city;
@@ -16,7 +17,6 @@ public class GitHomeWork15 {
     }
 
     public static void main(String[] args) {
-        // Створення об'єктів класу Person
         GitHomeWork15 person1 = new GitHomeWork15("Will", "Smith", "New York", "2936729462846");
         GitHomeWork15 person2 = new GitHomeWork15("Jackie", "Chan", "Shanghai", "12312412412");
         GitHomeWork15 person3 = new GitHomeWork15("Sherlock", "Holmes", "London", "37742123513");
